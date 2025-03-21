@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tong.github.io/sitemap.xml
